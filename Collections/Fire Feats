@@ -11,4 +11,6 @@ Incompatibility Bonuses:
 Allies gain only +(Elelvl) Str.</text>
         <text> </text>
         <text>Source: Intro to Elements, p. Fire</text>
+        <modifier category="ability score">strength +1</modifier>
+        <modifier category="ability score">charisma +1</modifier>
     </feat>
