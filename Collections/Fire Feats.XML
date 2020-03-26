@@ -4,15 +4,7 @@
 -<feat>
         <name>Fire</name>
         <prerequisite> None</prerequisite>
-        <text>Incandescent: (Fire, Light)
-Ability Score Increases: 
-| +1 Str, +1 Cha |
-Ablaze (Active): Use an action. All allies within a 30ft. radius gain +[2(Elelvl)] Str. This lasts for 10 minutes. You can use this ability once per long rest.
-Compatibility Bonuses: 
-All allies also gain that much charisma.
-Incompatibility Bonuses:
-Allies gain only +(Elelvl) Str.</text>
-        <text> </text>
+        <text>Blaze (Passive): When you damage an enemy, remove one buff from them. </text>
         <text>Source: Intro to Elements, p. Fire</text>
         <modifier category="ability score">strength +1</modifier>
         <modifier category="ability score">charisma +1</modifier>
