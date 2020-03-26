@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+-<compendium auto_indent="NO" version="5">
 <feat>
         <name>Fire</name>
         <prerequisite> None</prerequisite>
@@ -15,3 +16,4 @@ Allies gain only +(Elelvl) Str.</text>
         <modifier category="ability score">strength +1</modifier>
         <modifier category="ability score">charisma +1</modifier>
     </feat>
+</compendium>
