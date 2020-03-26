@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 -<compendium auto_indent="NO" version="5">
+        <!-- Races -->
 <feat>
         <name>Fire</name>
         <prerequisite> None</prerequisite>
