@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 -<compendium auto_indent="NO" version="5">
-        <!-- Races -->
-<feat>
+        <!-- Feats -->
+-<feat>
         <name>Fire</name>
         <prerequisite> None</prerequisite>
         <text>Incandescent: (Fire, Light)
